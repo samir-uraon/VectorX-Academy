@@ -147,8 +147,7 @@ knowledge with practical applications, the academy prepares
 <div className="acards">
   <ul className="cards">
 
-
-    <li className="card">
+  <li className="card">
     <div>
         <div className="card-content">
       
@@ -212,6 +211,8 @@ knowledge with practical applications, the academy prepares
     </li>
 
 
+
+
     <li className="card">
     <div>
         <div className="card-content">
@@ -227,7 +228,7 @@ knowledge with practical applications, the academy prepares
             
            </div>
       
-          <p id='aboutsometext' style={{padding:"3rem 3rem 5.45rem 3rem"}}>Jasmine Muddasu, a student at NIT Trichy and Chief Data Manager of VectorX Academy, specializes in structuring and analyzing academic data to enhance learning for Olympiad and JEE Advanced aspirants. She leverages data-driven insights to refine teaching strategies, streamline operations, and improve student outcomes.</p>
+          <p id='aboutsometext' style={{padding:"3rem 3rem 5.3rem 3rem"}}>Jasmine Muddasu, a student at NIT Trichy and Chief Data Manager of VectorX Academy, specializes in structuring and analyzing academic data to enhance learning for Olympiad and JEE Advanced aspirants. She leverages data-driven insights to refine teaching strategies, streamline operations, and improve student outcomes.</p>
         {/*<p id="aboutsometext2">With a vision to revolutionize physics education, he plans to expand VectorX Academy into a premier learning platform, integrating innovative teaching methods and high-quality content. Over the coming years, he aims to mentor thousands of students, helping them excel in national and international competitive exams.</p>*/}
         </div>
       </div>
@@ -244,7 +245,8 @@ knowledge with practical applications, the academy prepares
       </div>
     </li>
 
-  <li className="card">
+
+    <li className="card">
     <div>
         <div className="card-content">
       
@@ -258,7 +260,7 @@ knowledge with practical applications, the academy prepares
             
            </div>
       
-          <p id='aboutsometext' style={{padding:"3rem 3rem 3.4rem 3rem"}}>Abhishek Srujan Paul, a student of NIT Trichy and the Chief Marketing Officer of VectorX Academy, plays a pivotal role in expanding the academy's reach to ambitious students. He is the driving force behind its publicity and is responsible for devising innovative marketing strategies that contribute to the academy's growth and success.</p>
+          <p id='aboutsometext' style={{padding:"3rem 3rem 5.0rem 3rem"}}>Abhishek Srujan Paul, a student of NIT Trichy and the Chief Marketing Officer of VectorX Academy, plays a pivotal role in expanding the academy's reach to ambitious students. He is the driving force behind its publicity and is responsible for devising innovative marketing strategies that contribute to the academy's growth and success.</p>
         {/*<p id="aboutsometext2">With a vision to revolutionize physics education, he plans to expand VectorX Academy into a premier learning platform, integrating innovative teaching methods and high-quality content. Over the coming years, he aims to mentor thousands of students, helping them excel in national and international competitive exams.</p>*/}
         </div>
       </div>
@@ -274,15 +276,16 @@ knowledge with practical applications, the academy prepares
   </div>
       </div>
     </li>
-    
+
+
 
     <li className="card">
     <div>
         <div className="card-content">
-        {/*<img src={logo} className='card_watermark'/>*/}
+    
 
            <div className="card_head">
-            <img src={designer} alt="" style={{objectPosition: "0.01rem 0.1rem"}}/>
+            <img src={designer} alt="" style={{objectPosition: "0.01rem 0.04rem",width:"13rem"}}/>
             <div className="card_head_text">
             <p id='name'></p>
              <p id='posi'>Editor and Social Media Influencer, VectorX Academy</p>  
@@ -290,7 +293,7 @@ knowledge with practical applications, the academy prepares
             
            </div>
       
-          <p id='aboutsometext' style={{padding:"3rem 3rem 5.45rem 3rem"}}>Abhishek Srujan Paul, a student of NIT Trichy and the Chief Marketing Officer of VectorX Academy, plays a pivotal role in expanding the academy's reach to ambitious students. He is the driving force behind its publicity and is responsible for devising innovative marketing strategies that contribute to the academy's growth and success.
+          <p id='aboutsometext' style={{padding:"3rem 3rem 5.1rem 3rem"}}>I am a Creative and detail-oriented Video Editor, Thumbnail Designer, and YouTube Manager with a passion for crafting engaging visual content. Experienced in managing YouTube channels, optimizing content for growth, and designing eye-catching thumbnails that boost click-through rates.
           </p>
         {/*<p id="aboutsometext2">With a vision to revolutionize physics education, he plans to expand VectorX Academy into a premier learning platform, integrating innovative teaching methods and high-quality content. Over the coming years, he aims to mentor thousands of students, helping them excel in national and international competitive exams.</p>*/}
         </div>
@@ -307,6 +310,7 @@ knowledge with practical applications, the academy prepares
   </div>
       </div>
     </li>
+
 
 
     <li className="card">
@@ -323,7 +327,7 @@ knowledge with practical applications, the academy prepares
             
            </div>
       
-          <p id='aboutsometext' style={{padding:"3rem 3rem 3.5rem 3rem"}}>Nitesh Kumar S is the content head of VectorX Academy, managing its digital presence to engage and inspire students passionate about education. He is also a designer, creating impactful posters and reels that enhance the academy’s outreach. Through his expertise in visual content creation and social media management, he aims to foster a strong learning community for aspiring students.</p>      
+          <p id='aboutsometext' style={{padding:"3rem 3rem 3.2rem 3rem"}}>Nitesh Kumar S is the content head of VectorX Academy, managing its digital presence to engage and inspire students passionate about education. He is also a designer, creating impactful posters and reels that enhance the academy’s outreach. Through his expertise in visual content creation and social media management, he aims to foster a strong learning community for aspiring students.</p>      
         {/*<p id="aboutsometext2">With a vision to revolutionize physics education, he plans to expand VectorX Academy into a premier learning platform, integrating innovative teaching methods and high-quality content. Over the coming years, he aims to mentor thousands of students, helping them excel in national and international competitive exams.</p>*/}
         </div>
       </div>
