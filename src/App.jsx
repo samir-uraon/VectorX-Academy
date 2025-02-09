@@ -244,6 +244,37 @@ knowledge with practical applications, the academy prepares
       </div>
     </li>
 
+  <li className="card">
+    <div>
+        <div className="card-content">
+      
+
+           <div className="card_head">
+            <img src={cmo} alt="" style={{objectPosition:"-3rem 0.1rem"}}/>
+            <div className="card_head_text">
+            <p id='name'>Abhishek Srujan Paul</p>
+            <p id='posi'>Chief Marketing Officer, VectorX Academy</p>  
+            </div>
+            
+           </div>
+      
+          <p id='aboutsometext' style={{padding:"3rem 3rem 3.4rem 3rem"}}>Abhishek Srujan Paul, a student of NIT Trichy and the Chief Marketing Officer of VectorX Academy, plays a pivotal role in expanding the academy's reach to ambitious students. He is the driving force behind its publicity and is responsible for devising innovative marketing strategies that contribute to the academy's growth and success.</p>
+        {/*<p id="aboutsometext2">With a vision to revolutionize physics education, he plans to expand VectorX Academy into a premier learning platform, integrating innovative teaching methods and high-quality content. Over the coming years, he aims to mentor thousands of students, helping them excel in national and international competitive exams.</p>*/}
+        </div>
+      </div>
+      <div className="card-link-wrapper">
+  <div className="butcontainer">
+  <a><i className="fa-brands fa-facebook" style={{color:"rgb(12, 96, 223)"}}></i></a>
+  <a><i className="fa-brands fa-instagram" style={{color:"rgb(191, 12, 96)"}}></i></a>
+  <a><i className="fa-brands fa-linkedin" style={{color:"blue"}}></i></a>
+  <a><i className="fa-brands fa-square-x-twitter">
+  
+  </i>
+  </a>
+  </div>
+      </div>
+    </li>
+    
 
     <li className="card">
     <div>
@@ -253,8 +284,8 @@ knowledge with practical applications, the academy prepares
            <div className="card_head">
             <img src={designer} alt="" style={{objectPosition: "0.01rem 0.1rem"}}/>
             <div className="card_head_text">
-            <p id='name'>Abhishek Srujan Paul</p>
-             <p id='posi'>Chief Marketing Officer, VectorX Academy</p>  
+            <p id='name'></p>
+             <p id='posi'>Editor and Social Media Influencer, VectorX Academy</p>  
             </div>
             
            </div>
@@ -287,7 +318,7 @@ knowledge with practical applications, the academy prepares
             <img src={contenthead} alt="" style={{objectPosition:"top"}}/>
             <div className="card_head_text">
             <p id='name'>Nitesh Kumar S </p> 
-            <p id='posi'>Founder & CEO, VectorX Academy </p>  
+            <p id='posi'>Content Head, VectorX Academy </p>  
             </div>
             
            </div>
